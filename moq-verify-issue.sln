@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moq-verify-issue", "moq-verify-issue\moq-verify-issue.csproj", "{490B65F9-B3A3-4B93-BC52-7269EEBB3F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490B65F9-B3A3-4B93-BC52-7269EEBB3F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B65F9-B3A3-4B93-BC52-7269EEBB3F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B65F9-B3A3-4B93-BC52-7269EEBB3F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B65F9-B3A3-4B93-BC52-7269EEBB3F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01D5D47-9668-4998-B17E-37704FB56898}
+	EndGlobalSection
+EndGlobal
